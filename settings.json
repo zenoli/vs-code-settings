@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": -1,
+    "breadcrumbs.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "emmet.triggerExpansionOnTab": true,
+}
