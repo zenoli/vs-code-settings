@@ -18,6 +18,7 @@
     { "key": "alt+shift+i",            "command": "cursorUpSelect",   "when": "textInputFocus" },
     { "key": "ctrl+shift+k",            "command": "cursorDownSelect",       "when": "textInputFocus" },
     { "key": "ctrl+shift+j",            "command": "cursorWordLeftSelect",   "when": "textInputFocus" },
+    { "key": "ctrl+shift+l",            "command": "cursorWordRightSelect",   "when": "textInputFocus" },
     { "key": "ctrl+shift+alt+l",        "command": "cursorRightSelect", "when": "textInputFocus"},
     { "key": "ctrl+shift+alt+j",        "command": "cursorLeftSelect", "when": "textInputFocus"},
     { "key": "ctrl+shift+oem_5",        "command": "editor.action.selectToBracket"},
